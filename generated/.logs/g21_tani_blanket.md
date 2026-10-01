@@ -1,0 +1,1 @@
+/Users/robin/Downloads/bangtan-cat/generated/g21_tani_blanket.png

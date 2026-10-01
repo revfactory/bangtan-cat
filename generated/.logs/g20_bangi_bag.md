@@ -1,0 +1,1 @@
+./g20_bangi_bag.png

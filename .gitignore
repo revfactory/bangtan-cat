@@ -1,0 +1,7 @@
+# 의존성 (npm install 로 복원)
+showreel/node_modules/
+
+# 중간 렌더·믹스 (스크립트로 재생성)
+showreel/out/
+
+.DS_Store

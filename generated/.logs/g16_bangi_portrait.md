@@ -1,0 +1,1 @@
+./g16_bangi_portrait.png

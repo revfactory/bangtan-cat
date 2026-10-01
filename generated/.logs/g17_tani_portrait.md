@@ -1,0 +1,1 @@
+./g17_tani_portrait.png

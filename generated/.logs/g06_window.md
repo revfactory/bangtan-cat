@@ -1,0 +1,1 @@
+/Users/robin/Downloads/bangtan-cat/generated/g06_window.png
